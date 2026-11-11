@@ -1,7 +1,15 @@
 {
   "document":{
     "type":"PLAIN_TEXT",
-    "content":"Cindy Luttrell, Dean of the IT Division at Wake Tech stated that the jury was still out on whether AI usage would be helpful to students.  She stated that while AI is going to be crucial for anyone working in the IT industry, students can use it to cheat and not actually learn important concepts in their degree programs."
+    "content":"INTERVIEW STATEMENT - CINDY LUTTRELL
+
+I have serious concerns about the way artificial intelligence is affecting student learning. Too often, the first response to an assignment is no longer to think through the problem, read the material, or struggle productively with a difficult concept. Instead, some students immediately ask an AI system to produce an answer. That worries me because the finished response can look polished even when the student does not understand what it says.
+
+I am particularly frustrated when AI-generated work hides gaps that an instructor needs to see. If a student is confused about a networking concept, a programming step, or the reasoning behind a solution, I need to know that so I can help. When a chatbot supplies a confident answer, the student may submit it without recognizing that it is incomplete or simply wrong. That can turn a learning opportunity into a misleading grade.
+
+Academic integrity is another concern. Clear rules do not always prevent students from using AI in ways that cross the line. It is discouraging to spend time designing an activity only to discover that someone bypassed the intended practice. It also feels unfair to students who did the work honestly. Detection is imperfect, which makes these situations even more difficult and stressful for both students and faculty.
+
+I am not saying the technology has no legitimate use, but right now I think the risks are being underestimated. We need stronger boundaries, better verification, and assignments that make students demonstrate what they actually know. Until those safeguards are common, I remain skeptical about encouraging broad AI use in the classroom. I want students to develop durable skills, and I am concerned that easy access to generated answers can undermine exactly the effort and persistence those skills require."
   },
   "encodingType":"UTF8"
 }
