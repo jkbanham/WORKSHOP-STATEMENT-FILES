@@ -1,7 +1,15 @@
 {
   "document":{
     "type":"PLAIN_TEXT",
-    "content":"Jeff Banham, an instructor in the Cloud Infrastructure program at Wake Tech said that he loved teaching with AI and felt that all students should be learning it and using it each and every day!"
+    "content":"INTERVIEW STATEMENT - JEFF BANHAM
+
+AI has made teaching technology more interesting for me because it gives students a chance to experiment with tools that are becoming part of real cloud and IT workflows. I like seeing students use an AI assistant to explore a concept, troubleshoot a lab, summarize unfamiliar documentation, or compare different ways to solve the same problem. When they use it well, the conversation often leads to more questions, and that curiosity is exactly what I want in a technical classroom.
+
+I do not think students benefit from being told simply to avoid AI. They need practice deciding when it is useful, when it is unreliable, and how to verify what it tells them. A generated command that looks perfect can still be wrong. A confident explanation can leave out an important detail. Those limitations actually create good teaching moments because students have to test, validate, and defend their choices instead of accepting output blindly.
+
+There is also a practical workforce reason to embrace it. Cloud providers and software companies are rapidly adding AI capabilities to the tools our students will encounter. Giving students structured experience with those services helps connect classroom work to the environment they may see on the job. I find that exciting. It lets us teach not only a specific service, but also broader habits such as responsible prompting, validation, data awareness, and documentation.
+
+I am especially positive when AI supports hands-on learning rather than replacing it. If a student uses AI to understand an error and then fixes the system personally, that can be valuable. If the student uses it to skip the lab entirely, the benefit disappears. The difference is how we design the activity and set expectations. I would rather teach that distinction directly. Overall, I believe AI can make technical education more relevant, engaging, and effective, and I am glad we have the opportunity to explore it with students."
   },
   "encodingType":"UTF8"
 }
